@@ -243,6 +243,10 @@ El curso contribuye al cumplimiento del Student Outcome ABET:</br>
 # Capítulo III: Requirements Specification
 
 ## 3.1. User Stories
+
+![Lider](imagenes/FotoLider.jpg)
+
+
 ## 3.2. Impact Mapping
 ## 3.3. Product Backlog
 
