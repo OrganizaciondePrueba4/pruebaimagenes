@@ -248,6 +248,13 @@ El curso contribuye al cumplimiento del Student Outcome ABET:</br>
 # Capítulo IV: Product Design
 
 ## 4.1. Style Guidelines
+
+![Spacing](imagenes/branding-spacing.png)
+
+
+
+
+
 ### 4.1.1. General Style Guidelines
 ### 4.1.2. Web Style Guidelines
 
